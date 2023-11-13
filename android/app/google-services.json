@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249150255056",
+    "project_id": "loginauth-8e36c",
+    "storage_bucket": "loginauth-8e36c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249150255056:android:1a11365c526e8c02ea13d5",
+        "android_client_info": {
+          "package_name": "com.example.email_password_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNlQ58oMRehnMIqE5vG7S-hztxltw130A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
